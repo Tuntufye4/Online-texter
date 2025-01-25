@@ -40,7 +40,7 @@ An online application that offers various text analysis functionalities, includi
 1. Clone the repository:
 
     ```bash
-    git clone 
+    git clone https://github.com/Tuntufye4/Online-texter.git
     
     ```
 
